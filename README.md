@@ -13,13 +13,13 @@ Compare a search results in the work space folder and the selected folder.
 ## Usage
 
 (Preparation)keybindings.json
-'''
+```
     {
         "command": "m-search-diff.diff",
         "key": "alt+r",                    // whatever keybinding you want
         "args": "/work/vscode/helloworld"  // selected foloder※
     }
-'''
+```
     
 ※C:\work\vscode\helloworld　→ /work/vscode/helloworld
 
